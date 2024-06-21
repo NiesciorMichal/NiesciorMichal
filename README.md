@@ -13,7 +13,8 @@ This year I decided to return to programming focusing on ML/ Data Science workin
 - 📫 How to reach me: https://www.linkedin.com/in/micha%C5%82-nie%C5%9Bcior-351441140/
 - 😄 Pronouns: 😄
 - ⚡ Fun fact: you can't overwork yourself by learning
-
-In love with: https://www.kaggle.com/niesciormichal
+- ❤️ In love with:
+        kaggle.com/niesciormichal
+        freecodecamp.org/learn
 
 ![snake gif](https://github.com/NiesciorMichal/NiesciorMichal/blob/output/github-contribution-grid-snake-dark.svg)
