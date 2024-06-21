@@ -14,3 +14,4 @@ This year I decided to return to programming focusing on ML/ Data Science workin
 - 😄 Pronouns: 😄
 - ⚡ Fun fact: you can't overwork yourself by learning
 
+In love with: https://www.kaggle.com/niesciormichal
