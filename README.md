@@ -16,4 +16,4 @@ This year I decided to return to programming focusing on ML/ Data Science workin
 
 In love with: https://www.kaggle.com/niesciormichal
 
-![snake gif](https://github.com/NiesciorMichal/NiesciorMichal/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/NiesciorMichal/NiesciorMichal/blob/output/github-contribution-grid-snake-dark.svg)
