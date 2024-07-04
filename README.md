@@ -10,7 +10,7 @@ This year I decided to return to programming focusing on ML/ Data Science workin
 - 🌱 I’m currently learning #linux #docker #SQL #ML #AWS #azure
 - 👯 I’m looking to collaborate on: anything which may be done by begginer 😄
 - 💬 Ask me about: how to make transition from Industrial Automation to IT.
-- 📫 How to reach me: https://www.linkedin.com/in/micha%C5%82-nie%C5%9Bcior-351441140/
+- 📫 How to reach me: [LinkedIn Profile](www.linkedin.com/in/niesciormichal)
 - 😄 Pronouns: 😄
 - ⚡ Fun fact: you can't overwork yourself by learning
 - ❤️ In love with: [Kaggle ❤️](https://www.kaggle.com/niesciormichal) + [freeCodeCamp ❤️](https://www.freecodecamp.org/learn)
